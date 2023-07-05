@@ -1,0 +1,3 @@
+cd /mnt/c/Users/Carol/ic/finalCopia/SRGAN_power_data_generation-main
+
+python2 SRGAN_test.py
